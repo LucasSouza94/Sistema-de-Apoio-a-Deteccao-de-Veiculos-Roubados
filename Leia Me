@@ -1,0 +1,2 @@
+É necessaria a instalacao do Tesseract OCR e alterar no metodo OCR() o caminho de onde ele esta instalado.
+Alterar o canho de onde vai ser salvo e reculperado as fotos no metodo PDI(). 
